@@ -1,6 +1,6 @@
 --
 -- Database Schema:  commedit
--- Automatically generated sql script for the service 694, created by the CAE.
+-- Automatically generated sql script for the service 700, created by the CAE.
 -- --------------------------------------------------------
 
 --

@@ -1,4 +1,4 @@
-<project name="694" default="all" basedir="."
+<project name="700" default="all" basedir="."
   xmlns:ivy="antlib:org.apache.ivy.ant">
 
   <property file="etc/ant_configuration/user.properties" />
